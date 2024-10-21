@@ -9,6 +9,7 @@ import ProjectCardSkeleton from "./home/skeleton/project-card";
 import UpcomingEventsSkeleton from './home/skeleton/upcoming-events';
 
 import DashboardeTotalCountCard from "./home/total-count-card";
+import LatestActivities from './home/latest-activities';
 
 
 
@@ -22,5 +23,6 @@ export {
     LatestActivitiesSkeleton,
     ProjectCardSkeleton,
 
-    DashboardeTotalCountCard
+    DashboardeTotalCountCard,
+    LatestActivities
 };
